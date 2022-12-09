@@ -1,18 +1,33 @@
 CMSC 124 LECTURE TERM PAPER SUBPROGRAM SOURCE CODES
+Ron Gerlan F. Naragdao
+December 9, 2022
 
 This repository contains the subprograms for exploring C# features and syntax.
 
+
 The subprogams available are the following:
 1. DataTypes
+        This subprogram shows common data types and built-in methods to modify the variables. 
 2. ActivitySearch
+        This subprogram shows the locally optimal choice of activities among the pile. 
 3. MinimumEditDistance
+        This subprogram returns the value of the minimum steps needed to edit a word to another word. 
 4. StackLinkedList
+        This subprogram stores a value in a stack order by using a linked list structure. 
 5. BinarySearch
+        This subprogram efficiently searches the position of a value in an array.
 6. SelectionSort
+        This subprogram sorts an array by swapping the leftmost value 
+        covered with the smallest data among the remaining values.
 7. BubbleSort
+        This subprogram sorts an array by swapping from left to right of array the two values adjacent to each other.
 8. DataTypes2
-
+        This subprogram shows another set of data types such as records, enums, struct, String array, and Object array. 
+        It also has the type scoping method to show that C# is a statically typed language, 
+        and a type safe method to show that non-generic collections impose an error-prone compilation in runtime. 
+        
+        
 To access the subprograms, do the following:
 1. Place the C# files in the same folder or directory
 2. Open any IDE for C# that can run on a terminal (In my case, I used Visual Studio Code)
-3. Run the program via the available terminal (In my case with Visual Studio Code, I typed dotnet run)
+3. Run the program via the available terminal (In my case with Visual Studio Code, I typed dotnet run in the powershell terminal)
