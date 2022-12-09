@@ -1,0 +1,18 @@
+CMSC 124 LECTURE TERM PAPER SUBPROGRAM SOURCE CODES
+
+This repository contains the subprograms for exploring C# features and syntax.
+
+The subprogams available are the following:
+1. DataTypes
+2. ActivitySearch
+3. MinimumEditDistance
+4. StackLinkedList
+5. BinarySearch
+6. SelectionSort
+7. BubbleSort
+8. DataTypes2
+
+To access the subprograms, do the following:
+1. Place the C# files in the same folder or directory
+2. Open any IDE for C# that can run on a terminal (In my case, I used Visual Studio Code)
+3. Run the program via the available terminal (In my case with Visual Studio Code, I typed dotnet run)
