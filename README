@@ -3,7 +3,7 @@ Ron Gerlan F. Naragdao
 December 9, 2022
 
 This repository contains the subprograms for exploring C# features and syntax.
-
+The main program code can be found in the Program.cs file.
 
 The subprogams available are the following:
 1. DataTypes
